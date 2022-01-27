@@ -1,0 +1,14 @@
+<img src="[weeknd] (imported)" width="1296" height="1296" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:laker -->
+<area shape="rect" coords="405,691,607,863" href="face(face).mp3" />
+<area shape="rect" coords="671,688,723,747" href="face(ear).mp3" />
+<area shape="rect" coords="600,336,830,551" href="face(hair).mp3" />
+<area shape="rect" coords="247,547,484,653" href="face(glasses).mp3" />
+<area shape="rect" coords="335,393,556,532" href="face(mind).mp3" />
+</map>
