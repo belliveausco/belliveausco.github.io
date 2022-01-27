@@ -1,0 +1,20 @@
+.imageMap{
+    color:blue;
+
+    font: normal Arial, Helvetica, sans-serif;
+
+    line-height: 1.0em;
+    margin:0;
+
+    display: block;
+    width: 500px;
+    margin: auto; 
+    border:5px cornflowerblue solid;
+    padding:10px;
+    border-radius: 15px;
+}
+nav{
+        display: block;
+        width: 113px;
+        margin: auto; 
+}
