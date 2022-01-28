@@ -7,14 +7,40 @@
     margin:0;
 
     display: block;
-    width: 500px;
+    width: 400px;
     margin: auto; 
     border:5px cornflowerblue solid;
     padding:10px;
     border-radius: 15px;
+    text-align: center;
+}
+body{
+    background-color: rgb(144, 216, 210);
+}
+.AboutMe{
+    color:blue;
+
+    font: normal Arial, Helvetica, sans-serif;
+
+    line-height: 1.0em;
+    margin:0;
+
+    display: block;
+    width: 400px;
+    margin: auto; 
+    border:5px cornflowerblue solid;
+    padding:10px;
+    border-radius: 15px;
+
+    text-align: center;
 }
 nav{
+        line-height: 1.5em;
         display: block;
-        width: 113px;
+        width: 1000px;
         margin: auto; 
+        border:5px cornflowerblue dotted;
+        padding:10px;
+        border-radius: 15px;
+        text-align: center;
 }
