@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(144, 216, 210);
+    background-color: rgb(127, 201, 195);
 }
 
 nav{
@@ -22,7 +22,7 @@ nav{
     margin:0;
 
     display: block;
-    width: 400px;
+    width: 600px;
     margin: auto; 
     border:5px cornflowerblue solid;
     padding:10px;
