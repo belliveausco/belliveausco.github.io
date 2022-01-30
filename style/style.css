@@ -47,5 +47,54 @@ nav{
     border-radius: 15px;
     text-align: center;
 }
+.Boston{
+    color:blue;
+
+    font: normal Arial, Helvetica, sans-serif;
+
+    line-height: 1.0em;
+    margin:0;
+
+    display: block;
+    width: 800px;
+    margin: auto; 
+    border:5px cornflowerblue solid;
+    padding:10px;
+    border-radius: 15px;
+    text-align: center;
+}
+.Nantucket{
+    color:blue;
+
+    font: normal Arial, Helvetica, sans-serif;
+
+    line-height: 1.0em;
+    margin:0;
+
+    display: block;
+    width: 750px;
+    margin: auto; 
+    border:5px cornflowerblue solid;
+    padding:10px;
+    border-radius: 15px;
+    text-align: center;
+}
+.Bridgewater{
+    color:blue;
+
+    font: normal Arial, Helvetica, sans-serif;
+
+    line-height: 1.0em;
+    margin:0;
+
+    display: block;
+    width: 750px;
+    margin: auto; 
+    border:5px cornflowerblue solid;
+    padding:10px;
+    border-radius: 15px;
+    text-align: center;
+}
+
 
 
